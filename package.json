@@ -1,0 +1,19 @@
+{
+  "name": "simple-spotify-web-api",
+  "version": "0.0.1",
+  "description": "A simple Spotify Web API library",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "dependencies": {
+    "qs": "^6.9.4"
+  },
+  "keywords": [
+    "spotify",
+    "web-api"
+  ],
+  "author": "kawuchuu <projshdev@gmail.com> (https://projsh.xyz)",
+  "license": "ISC"
+}
